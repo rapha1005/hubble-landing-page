@@ -1,0 +1,17 @@
+@import 'reset.css';
+@import 'normalize.css';
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #684BB1;
+}
+
+.logo{
+    margin-top: 64px;
+    margin-left: 84px;
+    filter: grayscale(0);
+}
